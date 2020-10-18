@@ -1,5 +1,6 @@
 # project-android
-Project Android saya ketika menempuh pelajaran pemograman android.
-Feel free to download
-Belum sempurna
+# Project saya ketika mengikuti kelas pemograman android
+# File akan diperbarui setiap saya melakukan perubahan
+# Feel free to download
+# Semoga bisa membantu untuk belajar juga
 
